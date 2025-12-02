@@ -1,0 +1,7 @@
+{
+  "name": "Momin English - Educational Platform",
+  "description": "An interactive educational platform for students with a CMS for content management, study materials, and a social feed.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
